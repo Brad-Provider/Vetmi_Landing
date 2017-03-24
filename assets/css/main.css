@@ -2384,9 +2384,6 @@
 				padding: 1.5em;
 			}
 
-				ul.icons li:last-child {
-					padding-right: 0;
-				}
 
 				ul.icons li .icon:before {
 					font-size: 1.5em;
